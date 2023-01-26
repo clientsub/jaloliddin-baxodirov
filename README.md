@@ -21,7 +21,6 @@
 
 ### Demo Screeshots
 
-![Wren Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
