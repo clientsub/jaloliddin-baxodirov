@@ -1,4 +1,4 @@
-Wren - Perosonal Blog Website
+Baxodirovuz - Perosonal Blog Website
 
 This is a blog html template made by codewithsadee
 
@@ -6,9 +6,9 @@ This is a blog html template made by codewithsadee
 
 #---------- HEADER ----------#
 
-alt = Wren logo
+alt = Baxodirovuz logo
 
-alt = Wren logo
+alt = Baxodirovuz logo
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -31,8 +31,8 @@ My Likes
 Account Setting
 Sign Out
 
-Copyright 2022 © Wren - Personal Blog Template.
-Developed by codewithsadee
+Copyright 2022 © Baxodirovuz - Personal Blog Template.
+Developed by Baxodirovuz
 
 Subscribe
 
@@ -45,7 +45,7 @@ aria-label = open menu
 
 Hello Everyone!
 
-I’m Wren Clark
+I’m Baxodirovuz Clark
 
 I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that.
 
@@ -54,7 +54,7 @@ placeholder = Type your email address
 Subscribe
 <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
 
-alt = Wren Clark
+alt = Baxodirovuz Clark
 
 alt = shape
 
@@ -208,7 +208,7 @@ Katen Doe
 
 Barbara Cartland
 
-Wren logo
+Baxodirovuz logo
 
 Follow us on instagram
 
@@ -218,7 +218,7 @@ alt = insta post
 
 #---------- FOOTER ----------#
 
-Wren logo
+Baxodirovuz logo
 
 When an unknown prnoto sans took a galley and scrambled it to make specimen book not only five When an unknown prnoto sans took a galley and scrambled it to five centurie.
 
