@@ -154,6 +154,13 @@ button {
   color: inherit;
 }
 
+
+
+.header .container .logo img{
+  width: 200px;
+  height: 200px;
+}
+
 input {
   width: 100%;
   outline: none;
@@ -332,9 +339,17 @@ body.nav-active { overflow: hidden; }
   top: 0;
   left: 0;
   width: 100%;
+  height: 190px;
   padding-block: 24px;
   background-color: var(--bg-oxford-blue-2);
   z-index: 4;
+}
+
+#home{
+  /*height: 200px;*/
+}
+.container .hero-content .hero-text{
+  margin-top: 40px;
 }
 
 .header.active {
